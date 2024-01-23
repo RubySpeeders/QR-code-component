@@ -4,11 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screen-shot.pngscreenshot.png)
+![](./images/screen-shot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://rubyspeeders.github.io/QR-code-component/)
+- [Live Site URL:](https://rubyspeeders.github.io/QR-code-component/)
 
 ### Built with
 
