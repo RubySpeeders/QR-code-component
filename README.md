@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Live Site URL:](https://rubyspeeders.github.io/QR-code-component/)
+- Deployed to [Github Pages](https://rubyspeeders.github.io/QR-code-component/)
 
 ### Built with
 
